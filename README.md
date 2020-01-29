@@ -28,12 +28,3 @@ var canvas = document.getElementById('myCanvas');
 FactorsGame.init(canvas).start();
 ```
 
-### Author
-
-Michael P. Nitowski <[mpnitowski@gmail.com](mailto:mpnitowski@gmail.com)>
-    (Twitter: [@mikenitowski](https://twitter.com/mikenitowski),
-     Web: [mnito.co](http://mnito.co))
-
-### License
-
-Factors Game is licensed under the [MIT license](/LICENSE "License of Factors Game").
